@@ -31,9 +31,11 @@ All notebooks assume that required datasets have been obtained separately from t
 
 ## Reproducibility notes
 
-- The notebooks reflect the workflow and outputs as submitted with the dissertation.
+- The notebooks are provided in pre-executed form; all outputs are embedded to allow inspection without re-running the code.
+- The notebooks reflect the exact workflow, configurations, and outputs as submitted with the dissertation.
 - Time-ordered train/validation/test splits and leakage controls are implemented explicitly within the notebooks.
-- Results are intended to support transparency and methodological reproducibility rather than turnkey execution.
+- Reproducing results end-to-end requires access to the same cleaned datasets and directory structure used during analysis.
+- The materials are intended to support transparency and methodological reproducibility rather than turnkey execution.
 
 ## Citation
 
