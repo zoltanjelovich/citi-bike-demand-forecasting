@@ -14,8 +14,7 @@ See `CITATION.cff`. Please cite the dissertation and (if used) this repository r
 
 ## Licensing
 - Code and Jupyter notebooks are licensed under the MIT License (see `LICENSE`).
-- Appendix materials (Markdown files, figures, tables, and written content) are licensed under
-  Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE-CC-BY-4.0`.
+- Appendix materials (Markdown files, figures, tables, and written content) are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE-CC-BY-4.0`.
 
 ## Data note
 This repo does not include raw Citi Bike trip data or other large/raw source datasets.
