@@ -25,7 +25,7 @@ Due to page-length constraints, all appendices (Appendices A–F), including sup
 
 ## Scope and data availability
 
-This repository **does not include raw or processed datasets**, including Citi Bike trip records or external contextual datasets (e.g., weather, environmental, or built-environment data).
+This repository does not include raw or processed datasets, including Citi Bike trip records or external contextual datasets (e.g., weather, environmental, or built-environment data).
 
 All notebooks assume that required datasets have been obtained separately from their original public sources and placed in user-defined local directories. File paths and assumptions are documented within the notebooks themselves.
 
