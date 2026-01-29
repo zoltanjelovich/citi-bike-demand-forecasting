@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these materials, please cite the dissertation and this repository."
+message: "If you use these materials, please cite the dissertation."
 type: software
 title: "Multi-Scale Forecasting of Citi Bike Demand in New York City: Appendices and Reproducible Workflow"
 authors:
