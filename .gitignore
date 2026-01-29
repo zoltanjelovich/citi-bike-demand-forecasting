@@ -1,16 +1,48 @@
-# Python
-__pycache__/
-*.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Environments
-.env
-.venv
-venv/
-env/
-
-# OS files
+# Operating system/editor
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# Python cache/tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments/secrets
+.env
+.env.*
+.venv/
+venv/
+env/
+conda-env/
+*.conda
+
+# Data
+data/
+**/data/
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.csv
+*.tsv
+*.xlsx
+
+# Logs/temporary outputs
+*.log
+tmp/
+temp/
+outputs/
+results/
