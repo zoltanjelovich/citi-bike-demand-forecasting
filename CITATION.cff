@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the dissertation and this repository."
+type: software
+title: "Multi-Scale Forecasting of Citi Bike Demand in New York City: Appendices and Reproducible Workflow"
+authors:
+  - family-names: "Jelovich"
+    given-names: "Zoltan"
+repository-code: "https://github.com/zoltanjelovich/citi-bike-demand-forecasting"
+url: "https://github.com/zoltanjelovich/citi-bike-demand-forecasting"
+version: "1.0.0"
+date-released: "2026-01-28"
+license: "MIT"
+preferred-citation:
+  type: thesis
+  title: "Multi-Scale Forecasting of Citi Bike Demand in New York City: Including Time Series, Machine Learning, and Deep Learning Models"
+  authors:
+    - family-names: "Jelovich"
+      given-names: "Zoltan"
+  year: 2026
+  institution: "ISEG Lisbon School of Economics and Management"
