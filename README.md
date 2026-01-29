@@ -13,11 +13,6 @@ Zoltan Jelovich (2026)
 See `CITATION.cff`. Please cite the dissertation and (if used) this repository release.
 
 ## Licensing
-- Code (notebooks, `src/`): see `LICENSE-CODE`
-- Written appendix materials (PDFs, figures/tables you created): see `LICENSE-TEXT`
-
-## Licensing
-
 - Code and Jupyter notebooks are licensed under the MIT License (see `LICENSE`).
 - Appendix materials (Markdown files, figures, tables, and written content) are licensed under
   Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE-CC-BY-4.0`.
