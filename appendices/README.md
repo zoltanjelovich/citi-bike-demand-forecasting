@@ -1,6 +1,6 @@
 # Appendices Index
 
-- Appendix A. Station Clustering Diagnostics and Composition (`Appendix_A_station_clustering.md`)
+- Appendix A. Station Clustering Diagnostics and Composition (`Appendix_A.md`)
 - Appendix B. <title> (`Appendix_B_<shortname>.md`)
 - Appendix C. <title> (`Appendix_C_<shortname>.md`)
 - Appendix D. <title> (`Appendix_D_<shortname>.md`)
