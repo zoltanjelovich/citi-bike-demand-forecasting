@@ -143,3 +143,19 @@
 | Transit Adjacent | No Weather    | SARIMAX + Exog |  9,858 |  8,772 | -4.24 |
 
 *Author’s computations based on feature-group removal experiments for system-level daily forecasts, stratified by station-type cluster.*
+
+![](figures/fig_F1_prophet_fit_with_exog.png)
+
+*Figure F1 – Prophet fit with exogenous variables using combined training and validation data.*
+
+![](figures/fig_F2_prophet_marginal_effects.png)
+
+*Figure F2 – Approximate marginal effects of prophet exogenous regressors expressed as changes in daily trips.*
+
+![](figures/fig_F3_local_shap_weekday_commute_peak.png)
+
+*Figure F3 – Local SHAP explanation for a weekday commute peak prediction from the system-level hourly Random Forest model.*
+
+![](figures/fig_F4_local_shap_weekend_hour.png)
+
+*Figure F4 – Local SHAP explanation for a weekend-hour prediction from the system-level hourly Random Forest model.*
