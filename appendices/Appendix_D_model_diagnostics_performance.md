@@ -46,10 +46,14 @@
 
 *Author’s computations based on Prophet model estimates for Citi Bike system-level demand.*
 
-![](figures/.png)
+![](figures/fig_D1_sarimax_residual_diagnostics.png)
 
 *Figure D1 – SARIMAX residual diagnostics.*
 
-![](figures/.png)
+![](figures/fig_D2_ets_residual_diagnostics.png)
 
-*.*
+*Figure D2 – ETS residual diagnostics.*
+
+![](figures/fig_D3_abs_one_day_ahead_errors.png)
+
+*Figure D3 – Absolute one-day-ahead forecast errors over the final 90-day holdout period.*
