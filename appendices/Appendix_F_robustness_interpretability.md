@@ -114,8 +114,8 @@
 | Commercial       | SARIMAX + Exog | 53,718 | 46,619 | -3.31 |
 | Residential      | ETS + Exog     | 20,520 | 17,106 | -2.42 |
 | Residential      | SARIMAX + Exog | 23,794 | 20,725 | -3.60 |
-| Transit Adjacent | ETS + Exog     |  9,589 |  8,234 | -3.96 |
-| Transit Adjacent | SARIMAX + Exog | 11,234 | 10,125 | -5.81 |
+| Transit-Adjacent | ETS + Exog     |  9,589 |  8,234 | -3.96 |
+| Transit-Adjacent | SARIMAX + Exog | 11,234 | 10,125 | -5.81 |
 
 *Author’s computations based on system-level daily regime robustness evaluations stratified by station-type cluster.*
 
@@ -135,12 +135,12 @@
 | Residential      | Full          | SARIMAX + Exog | 23,794 | 20,725 | -3.60 |
 | Residential      | No Calendar   | SARIMAX + Exog | 25,840 | 22,747 | -4.43 |
 | Residential      | No Weather    | SARIMAX + Exog | 22,206 | 18,986 | -3.01 |
-| Transit Adjacent | Full          | ETS + Exog     |  9,589 |  8,234 | -3.96 |
-| Transit Adjacent | No Calendar   | ETS + Exog     |  9,596 |  8,241 | -3.97 |
-| Transit Adjacent | No Weather    | ETS + Exog     | 11,140 |  9,677 | -5.70 |
-| Transit Adjacent | Full          | SARIMAX + Exog | 11,234 | 10,125 | -5.81 |
-| Transit Adjacent | No Calendar   | SARIMAX + Exog | 10,445 |  9,326 | -4.89 |
-| Transit Adjacent | No Weather    | SARIMAX + Exog |  9,858 |  8,772 | -4.24 |
+| Transit-Adjacent | Full          | ETS + Exog     |  9,589 |  8,234 | -3.96 |
+| Transit-Adjacent | No Calendar   | ETS + Exog     |  9,596 |  8,241 | -3.97 |
+| Transit-Adjacent | No Weather    | ETS + Exog     | 11,140 |  9,677 | -5.70 |
+| Transit-Adjacent | Full          | SARIMAX + Exog | 11,234 | 10,125 | -5.81 |
+| Transit-Adjacent | No Calendar   | SARIMAX + Exog | 10,445 |  9,326 | -4.89 |
+| Transit-Adjacent | No Weather    | SARIMAX + Exog |  9,858 |  8,772 | -4.24 |
 
 *Author’s computations based on feature-group removal experiments for system-level daily forecasts, stratified by station-type cluster.*
 
