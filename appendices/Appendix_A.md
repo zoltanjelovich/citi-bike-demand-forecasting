@@ -34,4 +34,4 @@
 
 ![](figures/fig_A1_kmeans_cluster_validity.png)
 
-*Figure A1 – Cluster validity diagnostics for k-means solutions.*
+**Figure A1 – Cluster validity diagnostics for k-means solutions.**
