@@ -1,6 +1,6 @@
 # Appendix A. Station Clustering Diagnostics and Composition
 
-Table A.I
+**Table A.I**
 
 Cluster Composition by Station Count and Share
 
