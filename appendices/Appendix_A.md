@@ -32,6 +32,6 @@
 
 *Author’s computations based on cluster-level daily departures.*
 
-!(figures/fig_A1_kmeans_cluster_validity.png)
+![](figures/fig_A1_kmeans_cluster_validity.png)
 
 *Figure A1 – Cluster validity diagnostics for k-means solutions.*
