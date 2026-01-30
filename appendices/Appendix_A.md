@@ -31,3 +31,7 @@
 | Transit-Adjacent |  14 |  1,252 |  3,833 |  8,052 |  19,569 |  5,283 |
 
 *Author’s computations based on cluster-level daily departures.*
+
+!(figures/fig_A1_kmeans_cluster_validity.png)
+
+*Figure A1 – Cluster validity diagnostics for k-means solutions.*
